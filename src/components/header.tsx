@@ -5,9 +5,9 @@ import { useRouter } from 'next/router'
 import styles from '../styles/header.module.css'
 
 const navItems: { label: string; page?: string; link?: string }[] = [
-  { label: 'Ê×Ò³', page: '/' },
-  { label: '²©¿Í', page: '/blog' },
-  { label: 'ÖĞå·', page: '/contact' },
+  { label: 'é¦–é¡µ', page: '/' },
+  { label: 'åšå®¢', page: '/blog' },
+  { label: 'å¿ è‡£å¾®ç”µå­', page: '/contact' },
   // { label: 'Source Code', link: 'https://github.com/ijjk/notion-blog' },
 ]
 
