@@ -7,7 +7,7 @@ import styles from '../styles/header.module.css'
 const navItems: { label: string; page?: string; link?: string }[] = [
   { label: '首页', page: '/' },
   { label: '博客', page: '/blog' },
-  { label: '忠臣微电子', page: '/contact' },
+  { label: 'ZC', page: '/contact' },
   // { label: 'Source Code', link: 'https://github.com/ijjk/notion-blog' },
 ]
 
